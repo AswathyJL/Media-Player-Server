@@ -1,0 +1,50 @@
+{
+  "allVideos": [
+    {
+      "id": "5c6e",
+      "caption": "vaazha",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTXMxwezzHn9d7F_9IrjqZyKjBSPvfaukLEg&s",
+      "link": "https://www.youtube.com/embed/87IzSX3PpuA"
+    }
+  ],
+  "categories": [
+    {
+      "id": "5413",
+      "categoryName": "Fiction",
+      "allVideo": [
+        {
+          "id": "9065",
+          "caption": "Brahmastra",
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/ea/Brahmastra_Part_One_Shiva.jpg",
+          "link": "https://www.youtube.com/embed/BUjXzrgntcY"
+        },
+        {
+          "id": "2864",
+          "caption": "kalki",
+          "url": "https://static.toiimg.com/photo/111302049.cms?imgsize=170782",
+          "link": "https://www.youtube.com/embed/KVDV9ocP45M"
+        }
+      ]
+    },
+    {
+      "id": "9a51",
+      "categoryName": "Thriller",
+      "allVideo": [
+        {
+          "id": "710a",
+          "caption": "Lucifer",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzZy4atOC1ZlGtpLQ38z8LuRTBZ_8SxVGaA&s",
+          "link": "https://www.youtube.com/embed/x1-Ya0NZQso"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "c80f",
+      "caption": "Brahmastra",
+      "link": "https://www.youtube.com/embed/BUjXzrgntcY",
+      "timeStamp": "7/10/2024, 2:17:08 pm IST"
+    }
+  ]
+}
